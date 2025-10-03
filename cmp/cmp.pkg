@@ -1,4 +1,12 @@
-D 'DEA': Data envelopment analysis
+D 'cmp': Conditional mixed process estimator with multilevel random effects and coefficients Use cmp With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F cmp.ado
+F cmp.mata
+F cmp.sthlp
+F cmp_clear.ado
+F cmp_p.ado
+F ghk2.hlp
+F ghk2.mata
+F ghk2version.ado
+F lcmp.mlib
+F lghk2.mlib
