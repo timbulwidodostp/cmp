@@ -1,6 +1,8 @@
 # cmp
 Conditional mixed process estimator with multilevel random effects and coefficients Use cmp With STATA 19
 
+https://www.youtube.com/watch?v=Qpz7FctEkp8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
